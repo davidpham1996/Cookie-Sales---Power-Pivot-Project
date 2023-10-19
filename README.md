@@ -52,3 +52,7 @@ How many units were sold by cookie type annually?
 ## **Phase 4: Forecasting** 
 
 <img width="806" alt="image" src="https://github.com/davidpham1996/Cookie-Sales---Power-Pivot-Project/assets/148404076/05889c43-ecae-495b-ab8c-48bd53934f9a">
+
+## **Phase 5: Putting the Dashboard Together**
+
+![image](https://github.com/davidpham1996/Cookie-Sales---Power-Pivot-Project/assets/148404076/1250ec1d-fa0e-42a9-a3f2-ea0ef8603d85)
